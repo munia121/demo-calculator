@@ -1,0 +1,27 @@
+
+.section{
+    width: 400px;
+    margin: auto;
+}
+
+.dived{
+    background-color: black;
+}
+
+#myResult{
+    border: 2px solid;
+    height: 70px;
+   
+}
+td input{
+    height: 50px;
+    width: 90px;
+    font-size: 20px;
+}
+
+
+table{
+    /* background-color: black; */
+    width: 400px;
+    border: 2px solid;
+}
